@@ -1,0 +1,5 @@
+Collection of work
+Create a fully responsive, multi-page site to showcase yourself and your work. Your site will include a collection and contact page to get you started. From there, you can modify as desired.
+
+Welcome page
+Create a simple, fully responsive one page site. Ideal for a personal landing page, digital business card, or welcome page to start a larger site. You can always add additional pages if desired.
